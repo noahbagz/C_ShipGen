@@ -17,4 +17,3 @@ Within this repository are:
 
 5) Pre-trained Generative and Regressive Models for C-ShipGen
 
-6) 
