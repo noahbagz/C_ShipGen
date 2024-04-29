@@ -1,0 +1,1 @@
+{"xdim": 44, "ydim": 1, "tdim": 256, "net": [256, 256, 256], "Training_Epochs": 1500, "batch_size": 1024, "Model_Label": "Regressor_BOA", "lr": 0.001, "weight_decay": 0.0, "device_name": "cuda:0"}
